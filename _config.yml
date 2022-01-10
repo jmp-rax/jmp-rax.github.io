@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   C, C++, Python, Reverse Engineering, CTF's, althorithms, data structures, musings.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'jmp-rax.github.io'
+url: https://jmp-rax.github.io
 
 github:
   username: jmp-rax             # change to your github username
