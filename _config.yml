@@ -13,14 +13,14 @@ baseurl: ''
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: JMP_RAX                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: My dev blog and musings   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   JMP_RAX. Dev blog. Unix, Linux, Windows, programming, software engineering, sogtware developer,
@@ -81,7 +81,7 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar.jpeg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
